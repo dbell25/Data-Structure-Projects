@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ksu.Cis300.ParenthesisMatcher", "Ksu.Cis300.ParenthesisMatcher\Ksu.Cis300.ParenthesisMatcher.csproj", "{6C076B34-04A2-4BB1-915E-9A513A2F843F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ksu.Cis300.StackLibrary", "Ksu.Cis300.ParenthesisMatcher\Ksu.Cis300.StackLibrary\Ksu.Cis300.StackLibrary\Ksu.Cis300.StackLibrary.csproj", "{14D79A61-FA70-4B59-AAFD-C2540ECF4B6E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6C076B34-04A2-4BB1-915E-9A513A2F843F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C076B34-04A2-4BB1-915E-9A513A2F843F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C076B34-04A2-4BB1-915E-9A513A2F843F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C076B34-04A2-4BB1-915E-9A513A2F843F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{14D79A61-FA70-4B59-AAFD-C2540ECF4B6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14D79A61-FA70-4B59-AAFD-C2540ECF4B6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14D79A61-FA70-4B59-AAFD-C2540ECF4B6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14D79A61-FA70-4B59-AAFD-C2540ECF4B6E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5829B306-282A-4915-B8AD-453B2DF7972E}
+	EndGlobalSection
+EndGlobal
